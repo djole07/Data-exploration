@@ -1,6 +1,6 @@
 # Data Engineering competition
 
-This repository contains a solution for the Data Engineering task.  
+This repository contains a solution for the Data Engineering competition.  
 The task is to process raw event data (registrations, session pings, match starts and finishes) along with map metadata, clean it, reconstruct missing information, and build a small match history system. Finally, the data is exposed through a simple REST API and visualized.
 
 **Author:** Djordje Mirosavic
