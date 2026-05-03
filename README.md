@@ -1,6 +1,3 @@
-# Data-exploration
-Exploration of golf game dataset
-
 # Nordeus Data Engineering Challenge 2026
 
 This repository contains a solution for the Nordeus Data Engineering Challenge 2026.  
