@@ -70,3 +70,7 @@ requests.get("http://localhost:5000/maps").json()
 ## Visualisation
 
 Creates a line chart of match counts per map over time. It uses the `/map-stats` endpoint to fetch data.
+
+## TODO
+
+Implementing `device_os` recognition using `session_ping`. Idea for this is to track duration between consecutive `timestamp` regardless of if match is happening. The results will be added in new colomn in `events_df` dataframe
